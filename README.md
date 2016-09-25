@@ -1,0 +1,2 @@
+# absinthetic
+Array-based esolang
